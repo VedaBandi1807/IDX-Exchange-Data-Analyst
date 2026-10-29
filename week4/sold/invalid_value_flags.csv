@@ -1,0 +1,7 @@
+flag,column,flagged_rows,rows_with_value
+invalid_close_price_flag,ClosePrice,1,480485
+invalid_living_area_flag,LivingArea,172,480218
+invalid_days_on_market_flag,DaysOnMarket,54,480487
+invalid_bedrooms_flag,BedroomsTotal,0,480475
+invalid_bathrooms_flag,BathroomsTotalInteger,0,480417
+any_invalid_flag,(any of the above),227,480487

@@ -1,0 +1,13 @@
+column,status,blank,failed_to_parse
+ClosePrice,converted,450166,0
+ListPrice,converted,0,0
+OriginalListPrice,converted,910,0
+LivingArea,converted,612,0
+LotSizeAcres,converted,50705,0
+BedroomsTotal,converted,149,0
+BathroomsTotalInteger,converted,56,0
+DaysOnMarket,converted,0,0
+YearBuilt,converted,1055,0
+Latitude,converted,81066,0
+Longitude,converted,81066,0
+rate_30yr_fixed,converted,0,0

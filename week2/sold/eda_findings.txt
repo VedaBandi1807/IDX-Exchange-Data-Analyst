@@ -1,0 +1,14 @@
+Property-type shares use monthly files from 2024-01 through 2026-08.
+Monthly files read: 32; missing: 0.
+Monthly Residential rows: 480,487; combined Residential rows: 480,487.
+Normal monthly files take precedence over _filled files; each month is counted once.
+Residential counts agree; count agreement alone does not prove identical records or month coverage.
+DaysOnMarket: see numeric_summary.csv and charts/DaysOnMarket.png.
+Mean close price (finite numeric values): 1,189,570.62
+Median close price (finite numeric values): 825,000.00
+Sold-vs-list denominator: 480,484 rows with positive finite prices; 3 excluded from this calculation only. Uses ListPrice.
+County rankings use positive finite close prices and known counties; review sales counts.
+CloseDate: 0 nonblank values failed date parsing.
+ListingContractDate: 0 nonblank values failed date parsing.
+PurchaseContractDate: 0 nonblank values failed date parsing.
+ContractStatusChangeDate: 0 nonblank values failed date parsing.

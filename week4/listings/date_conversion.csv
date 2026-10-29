@@ -1,0 +1,5 @@
+column,status,blank,failed_to_parse,min,max
+CloseDate,converted,427686,0,2024-01-01,2030-04-16
+PurchaseContractDate,converted,315842,0,2023-06-13,2026-09-30
+ListingContractDate,converted,0,0,2024-01-01,2026-08-31
+ContractStatusChangeDate,converted,6822,0,2024-01-01,2026-12-01

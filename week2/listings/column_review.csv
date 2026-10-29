@@ -1,0 +1,85 @@
+column,loaded_dtype,expected_type,field_role
+OriginalListPrice,string,numeric,Market analysis / validation
+ListingKey,string,text / identifier / category,Identifier / metadata
+ListAgentEmail,string,text / identifier / category,Source / contact metadata
+CloseDate,string,datetime,Market analysis / validation
+ClosePrice,string,numeric,Market analysis / validation
+ListAgentFirstName,string,text / identifier / category,Market analysis / validation
+ListAgentLastName,string,text / identifier / category,Market analysis / validation
+Latitude,string,text / identifier / category,Market analysis / validation
+Longitude,string,text / identifier / category,Market analysis / validation
+UnparsedAddress,string,text / identifier / category,Other property / agent attribute: review definition
+PropertyType,string,text / identifier / category,Market analysis / validation
+LivingArea,string,numeric,Market analysis / validation
+ListPrice,string,numeric,Market analysis / validation
+DaysOnMarket,string,numeric,Market analysis / validation
+ListOfficeName,string,text / identifier / category,Market analysis / validation
+BuyerOfficeName,string,text / identifier / category,Market analysis / validation
+CoListOfficeName,string,text / identifier / category,Other property / agent attribute: review definition
+ListAgentFullName,string,text / identifier / category,Market analysis / validation
+CoListAgentFirstName,string,text / identifier / category,Other property / agent attribute: review definition
+CoListAgentLastName,string,text / identifier / category,Other property / agent attribute: review definition
+BuyerAgentMlsId,string,text / identifier / category,Other property / agent attribute: review definition
+BuyerAgentFirstName,string,text / identifier / category,Other property / agent attribute: review definition
+BuyerAgentLastName,string,text / identifier / category,Other property / agent attribute: review definition
+FireplacesTotal,string,text / identifier / category,Other property / agent attribute: review definition
+AssociationFeeFrequency,string,text / identifier / category,Other property / agent attribute: review definition
+AboveGradeFinishedArea,string,text / identifier / category,Other property / agent attribute: review definition
+ListingKeyNumeric,string,text / identifier / category,Identifier / metadata
+MLSAreaMajor,string,text / identifier / category,Market analysis / validation
+TaxAnnualAmount,string,text / identifier / category,Other property / agent attribute: review definition
+CountyOrParish,string,text / identifier / category,Market analysis / validation
+PropertyType.1,string,text / identifier / category,Market analysis / validation
+MlsStatus,string,text / identifier / category,Market analysis / validation
+ElementarySchool,string,text / identifier / category,Other property / agent attribute: review definition
+ListAgentFirstName.1,string,text / identifier / category,Market analysis / validation
+AttachedGarageYN,string,text / identifier / category,Other property / agent attribute: review definition
+ParkingTotal,string,text / identifier / category,Other property / agent attribute: review definition
+BuilderName,string,text / identifier / category,Other property / agent attribute: review definition
+PropertySubType,string,text / identifier / category,Market analysis / validation
+LotSizeAcres,string,numeric,Market analysis / validation
+SubdivisionName,string,text / identifier / category,Other property / agent attribute: review definition
+BuyerOfficeAOR,string,text / identifier / category,Other property / agent attribute: review definition
+YearBuilt,string,numeric,Market analysis / validation
+DaysOnMarket.1,string,numeric,Market analysis / validation
+BuyerAgencyCompensationType,string,text / identifier / category,Other property / agent attribute: review definition
+StreetNumberNumeric,string,text / identifier / category,Other property / agent attribute: review definition
+LivingArea.1,string,numeric,Market analysis / validation
+ListingId,string,text / identifier / category,Identifier / metadata
+BathroomsTotalInteger,string,numeric,Market analysis / validation
+City,string,text / identifier / category,Market analysis / validation
+BuyerAgencyCompensation,string,text / identifier / category,Other property / agent attribute: review definition
+TaxYear,string,text / identifier / category,Other property / agent attribute: review definition
+BuildingAreaTotal,string,text / identifier / category,Other property / agent attribute: review definition
+BedroomsTotal,string,numeric,Market analysis / validation
+ContractStatusChangeDate,string,datetime,Market analysis / validation
+Longitude.1,string,text / identifier / category,Market analysis / validation
+ElementarySchoolDistrict,string,text / identifier / category,Other property / agent attribute: review definition
+CoBuyerAgentFirstName,string,text / identifier / category,Other property / agent attribute: review definition
+PurchaseContractDate,string,datetime,Market analysis / validation
+ListingContractDate,string,datetime,Market analysis / validation
+BelowGradeFinishedArea,string,text / identifier / category,Other property / agent attribute: review definition
+BusinessType,string,text / identifier / category,Other property / agent attribute: review definition
+Latitude.1,string,text / identifier / category,Market analysis / validation
+ListPrice.1,string,numeric,Market analysis / validation
+StateOrProvince,string,text / identifier / category,Market analysis / validation
+CoveredSpaces,string,text / identifier / category,Other property / agent attribute: review definition
+MiddleOrJuniorSchool,string,text / identifier / category,Other property / agent attribute: review definition
+FireplaceYN,string,text / identifier / category,Other property / agent attribute: review definition
+Stories,string,text / identifier / category,Other property / agent attribute: review definition
+HighSchool,string,text / identifier / category,Other property / agent attribute: review definition
+Levels,string,text / identifier / category,Other property / agent attribute: review definition
+ListAgentLastName.1,string,text / identifier / category,Market analysis / validation
+CloseDate.1,string,datetime,Market analysis / validation
+LotSizeDimensions,string,text / identifier / category,Other property / agent attribute: review definition
+LotSizeArea,string,text / identifier / category,Other property / agent attribute: review definition
+MainLevelBedrooms,string,text / identifier / category,Other property / agent attribute: review definition
+NewConstructionYN,string,text / identifier / category,Other property / agent attribute: review definition
+GarageSpaces,string,text / identifier / category,Other property / agent attribute: review definition
+HighSchoolDistrict,string,text / identifier / category,Other property / agent attribute: review definition
+PostalCode,string,text / identifier / category,Market analysis / validation
+BuyerOfficeName.1,string,text / identifier / category,Market analysis / validation
+AssociationFee,string,text / identifier / category,Other property / agent attribute: review definition
+LotSizeSquareFeet,string,text / identifier / category,Other property / agent attribute: review definition
+MiddleOrJuniorSchoolDistrict,string,text / identifier / category,Other property / agent attribute: review definition
+UnparsedAddress.1,string,text / identifier / category,Other property / agent attribute: review definition

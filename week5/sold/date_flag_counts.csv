@@ -1,0 +1,4 @@
+flag,flagged_rows,rows_with_both_dates,percent_of_comparable
+listing_after_close_flag,74,480486,0.015
+purchase_after_close_flag,242,480290,0.05
+negative_timeline_flag,311,480289,0.065

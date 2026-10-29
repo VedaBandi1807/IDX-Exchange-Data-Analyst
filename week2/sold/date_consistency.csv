@@ -1,0 +1,4 @@
+check,comparable_rows,violations
+ListingContractDate after CloseDate,480486,74
+ListingContractDate after PurchaseContractDate,480289,311
+PurchaseContractDate after CloseDate,480290,242

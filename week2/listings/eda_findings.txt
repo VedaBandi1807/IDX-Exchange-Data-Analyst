@@ -1,0 +1,10 @@
+Property-type shares use monthly files from 2024-01 through 2026-08.
+Monthly files read: 32; missing: 0.
+Monthly Residential rows: 629,029; combined Residential rows: 629,029.
+Normal monthly files take precedence over _filled files; each month is counted once.
+Residential counts agree; count agreement alone does not prove identical records or month coverage.
+DaysOnMarket: see numeric_summary.csv and charts/DaysOnMarket.png.
+CloseDate: 0 nonblank values failed date parsing.
+ListingContractDate: 0 nonblank values failed date parsing.
+PurchaseContractDate: 0 nonblank values failed date parsing.
+ContractStatusChangeDate: 0 nonblank values failed date parsing.

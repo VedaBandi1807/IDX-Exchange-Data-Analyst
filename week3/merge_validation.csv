@@ -1,0 +1,3 @@
+dataset,date_key,rows_before,rows_after,blank_dates,unparseable_dates,null_rates_after_merge,months_without_rate,validation
+sold,CloseDate,480487,480487,0,0,0,,PASS
+listings,ListingContractDate,629029,629029,0,0,0,,PASS

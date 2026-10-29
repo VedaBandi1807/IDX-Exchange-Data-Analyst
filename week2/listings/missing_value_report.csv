@@ -1,0 +1,85 @@
+column,missing_count,missing_percent,above_90_percent_missing,retention_recommendation
+FireplacesTotal,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+BusinessType,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+TaxYear,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+MiddleOrJuniorSchoolDistrict,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+ElementarySchoolDistrict,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+TaxAnnualAmount,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+AboveGradeFinishedArea,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+CoveredSpaces,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+BelowGradeFinishedArea,625321,99.4105200237191,True,Candidate to drop from analysis copy after relevance review
+CoBuyerAgentFirstName,611209,97.16706224991216,True,Candidate to drop from analysis copy after relevance review
+BuilderName,600144,95.40800185683013,True,Candidate to drop from analysis copy after relevance review
+LotSizeDimensions,596258,94.79022429808482,True,Candidate to drop from analysis copy after relevance review
+BuildingAreaTotal,573942,91.24253412799727,True,Candidate to drop from analysis copy after relevance review
+ElementarySchool,553533,87.99800963071654,False,Retain pending field-definition review
+MiddleOrJuniorSchool,553510,87.99435320152172,False,Retain pending field-definition review
+BuyerAgencyCompensation,550036,87.44207341791873,False,Retain pending field-definition review
+BuyerAgencyCompensationType,550016,87.43889391427105,False,Retain pending field-definition review
+HighSchool,529945,84.2481030286362,False,Retain pending field-definition review
+CoListAgentFirstName,488622,77.67877156697068,False,Retain pending field-definition review
+CoListAgentLastName,488162,77.6056429830739,False,Retain pending field-definition review
+CoListOfficeName,488055,77.58863263855879,False,Retain pending field-definition review
+BuyerOfficeAOR,451362,71.75535627133249,False,Retain pending field-definition review
+ClosePrice,450166,71.56522195320089,False,"Retain: core analysis, validation, or identification field"
+BuyerOfficeName,437621,69.57087829019012,False,"Retain: core analysis, validation, or identification field"
+BuyerOfficeName.1,437621,69.57087829019012,False,Review duplicate comparison before merging or dropping
+BuyerAgentFirstName,435801,69.28154345825072,False,Retain pending field-definition review
+BuyerAgentMlsId,435119,69.17312238386467,False,Retain pending field-definition review
+BuyerAgentLastName,434976,69.1503889327837,False,Retain pending field-definition review
+CloseDate,427686,67.99145985320231,False,"Retain: core analysis, validation, or identification field"
+CloseDate.1,427686,67.99145985320231,False,Review duplicate comparison before merging or dropping
+SubdivisionName,397340,63.16719896856902,False,Retain pending field-definition review
+AssociationFeeFrequency,360665,57.33678415462562,False,Retain pending field-definition review
+PurchaseContractDate,315842,50.211039554615134,False,"Retain: core analysis, validation, or identification field"
+MainLevelBedrooms,284482,45.22557783504417,False,Retain pending field-definition review
+HighSchoolDistrict,187756,29.8485443437425,False,Retain pending field-definition review
+AssociationFee,150661,23.951359953197706,False,Retain pending field-definition review
+AttachedGarageYN,109558,17.417003031656726,False,Retain pending field-definition review
+Stories,108644,17.271699714957496,False,Retain pending field-definition review
+MLSAreaMajor,85886,13.6537425142561,False,"Retain: core analysis, validation, or identification field"
+ListAgentEmail,83373,13.254237880924407,False,Retain pending field-definition review
+Latitude.1,81066,12.88748213516388,False,Review duplicate comparison before merging or dropping
+Longitude.1,81066,12.88748213516388,False,Review duplicate comparison before merging or dropping
+Longitude,81066,12.88748213516388,False,"Retain: core analysis, validation, or identification field"
+Latitude,81066,12.88748213516388,False,"Retain: core analysis, validation, or identification field"
+Levels,66674,10.59951131028935,False,Retain pending field-definition review
+LotSizeAcres,50705,8.060836622794817,False,"Retain: core analysis, validation, or identification field"
+LotSizeSquareFeet,49978,7.945261665201446,False,Retain pending field-definition review
+LotSizeArea,49773,7.912671752812668,False,Retain pending field-definition review
+NewConstructionYN,43681,6.9441949417276465,False,Retain pending field-definition review
+GarageSpaces,34314,5.455074408334115,False,Retain pending field-definition review
+ContractStatusChangeDate,6822,1.0845286942255445,False,"Retain: core analysis, validation, or identification field"
+ListAgentFirstName.1,4838,0.7691219323751369,False,Review duplicate comparison before merging or dropping
+ListAgentFirstName,4838,0.7691219323751369,False,"Retain: core analysis, validation, or identification field"
+PropertySubType,1419,0.22558578380329047,False,"Retain: core analysis, validation, or identification field"
+StreetNumberNumeric,1174,0.18663686411914235,False,Retain pending field-definition review
+YearBuilt,1055,0.16771881741541328,False,"Retain: core analysis, validation, or identification field"
+UnparsedAddress.1,963,0.15309310063605971,False,Review duplicate comparison before merging or dropping
+UnparsedAddress,962,0.15293412545367543,False,Retain pending field-definition review
+OriginalListPrice,910,0.144667415969693,False,"Retain: core analysis, validation, or identification field"
+FireplaceYN,653,0.10381079409693353,False,Retain pending field-definition review
+LivingArea.1,612,0.09729281161917813,False,Review duplicate comparison before merging or dropping
+LivingArea,612,0.09729281161917813,False,"Retain: core analysis, validation, or identification field"
+City,601,0.09554408461295108,False,"Retain: core analysis, validation, or identification field"
+BedroomsTotal,149,0.02368730217525742,False,"Retain: core analysis, validation, or identification field"
+ListAgentFullName,120,0.01907702188611336,False,"Retain: core analysis, validation, or identification field"
+StateOrProvince,70,0.011128262766899459,False,"Retain: core analysis, validation, or identification field"
+BathroomsTotalInteger,56,0.008902610213519567,False,"Retain: core analysis, validation, or identification field"
+ListAgentLastName.1,48,0.007630808754445343,False,Review duplicate comparison before merging or dropping
+ListAgentLastName,48,0.007630808754445343,False,"Retain: core analysis, validation, or identification field"
+ParkingTotal,20,0.00317950364768556,False,Retain pending field-definition review
+PostalCode,20,0.00317950364768556,False,"Retain: core analysis, validation, or identification field"
+PropertyType,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListOfficeName,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListPrice,0,0.0,False,"Retain: core analysis, validation, or identification field"
+DaysOnMarket,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListingContractDate,0,0.0,False,"Retain: core analysis, validation, or identification field"
+MlsStatus,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListingKeyNumeric,0,0.0,False,"Retain: core analysis, validation, or identification field"
+CountyOrParish,0,0.0,False,"Retain: core analysis, validation, or identification field"
+PropertyType.1,0,0.0,False,Review duplicate comparison before merging or dropping
+ListingKey,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListingId,0,0.0,False,"Retain: core analysis, validation, or identification field"
+ListPrice.1,0,0.0,False,Review duplicate comparison before merging or dropping
+DaysOnMarket.1,0,0.0,False,Review duplicate comparison before merging or dropping

@@ -1,0 +1,10 @@
+Dataset: listings
+Main input: CRMLSListing_Combined_Residential_1.csv
+Rows before Residential filter: 629,029
+Rows after Residential filter: 629,029
+Columns: 84
+Columns above 90% missing: 13
+Main analysis uses combined data only; monthly files supply original property-type shares only.
+Loaded types are strings; numeric/date validity is checked separately for analysis.
+No columns or outliers removed. Retention recommendations need review.
+Missing sale fields may be expected for unsold listings.

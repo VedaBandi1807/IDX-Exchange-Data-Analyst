@@ -1,0 +1,6 @@
+flag,flagged_rows,percent_of_rows
+missing_coords_flag,81066,12.887
+zero_coords_flag,82,0.013
+positive_longitude_flag,92,0.015
+out_of_state_coords_flag,292,0.046
+any_geo_issue_flag,81440,12.947

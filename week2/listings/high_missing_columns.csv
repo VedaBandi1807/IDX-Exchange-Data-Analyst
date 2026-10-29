@@ -1,0 +1,14 @@
+column,missing_count,missing_percent,above_90_percent_missing,retention_recommendation
+FireplacesTotal,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+BusinessType,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+TaxYear,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+MiddleOrJuniorSchoolDistrict,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+ElementarySchoolDistrict,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+TaxAnnualAmount,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+AboveGradeFinishedArea,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+CoveredSpaces,629029,100.0,True,Candidate to drop from analysis copy after relevance review
+BelowGradeFinishedArea,625321,99.4105200237191,True,Candidate to drop from analysis copy after relevance review
+CoBuyerAgentFirstName,611209,97.16706224991216,True,Candidate to drop from analysis copy after relevance review
+BuilderName,600144,95.40800185683013,True,Candidate to drop from analysis copy after relevance review
+LotSizeDimensions,596258,94.79022429808482,True,Candidate to drop from analysis copy after relevance review
+BuildingAreaTotal,573942,91.24253412799727,True,Candidate to drop from analysis copy after relevance review

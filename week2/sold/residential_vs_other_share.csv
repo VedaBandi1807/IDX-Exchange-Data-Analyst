@@ -1,0 +1,4 @@
+category,rows,percent_of_available_rows,all_required_months_present
+Residential,480487,67.25920762170327,True
+Other known types,233894,32.74079237829673,True
+Missing type,0,0.0,True

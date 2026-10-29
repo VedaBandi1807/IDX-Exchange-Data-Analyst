@@ -1,0 +1,12 @@
+original,repeated,conflicting_values,original_only,repeated_only,all_match
+PropertyType,PropertyType.1,0,0,0,True
+ListAgentFirstName,ListAgentFirstName.1,0,0,0,True
+DaysOnMarket,DaysOnMarket.1,0,0,0,True
+LivingArea,LivingArea.1,0,0,0,True
+Longitude,Longitude.1,0,0,0,True
+Latitude,Latitude.1,0,0,0,True
+ListPrice,ListPrice.1,0,0,0,True
+ListAgentLastName,ListAgentLastName.1,0,0,0,True
+CloseDate,CloseDate.1,0,0,0,True
+BuyerOfficeName,BuyerOfficeName.1,1,0,0,False
+UnparsedAddress,UnparsedAddress.1,0,1,0,False

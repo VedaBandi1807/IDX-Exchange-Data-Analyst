@@ -1,0 +1,23 @@
+column,reason
+PropertyType.1,Exact duplicate of PropertyType
+ListAgentFirstName.1,Exact duplicate of ListAgentFirstName
+DaysOnMarket.1,Exact duplicate of DaysOnMarket
+LivingArea.1,Exact duplicate of LivingArea
+Longitude.1,Exact duplicate of Longitude
+Latitude.1,Exact duplicate of Latitude
+ListPrice.1,Exact duplicate of ListPrice
+ListAgentLastName.1,Exact duplicate of ListAgentLastName
+CloseDate.1,Exact duplicate of CloseDate
+FireplacesTotal,"100.0% missing, not a core field"
+AboveGradeFinishedArea,"100.0% missing, not a core field"
+TaxAnnualAmount,"100.0% missing, not a core field"
+BuilderName,"95.4% missing, not a core field"
+TaxYear,"100.0% missing, not a core field"
+BuildingAreaTotal,"91.2% missing, not a core field"
+ElementarySchoolDistrict,"100.0% missing, not a core field"
+CoBuyerAgentFirstName,"97.2% missing, not a core field"
+BelowGradeFinishedArea,"99.4% missing, not a core field"
+BusinessType,"100.0% missing, not a core field"
+CoveredSpaces,"100.0% missing, not a core field"
+LotSizeDimensions,"94.8% missing, not a core field"
+MiddleOrJuniorSchoolDistrict,"100.0% missing, not a core field"
